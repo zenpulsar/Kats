@@ -28,7 +28,7 @@ if not os.environ.get("MINIMAL_KATS", False):
 setup(
     name="kats",
     packages=find_packages(),
-    version="0.2.0",
+    version="0.3.2",
     license="MIT",
     description="kats: kit to analyze time series",
     author="facebook",
